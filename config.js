@@ -19,11 +19,11 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6283172195617','6283172195617','6283172195617']
-global.pemilik = ['6283127014833']
-global.premium = ['6281365814200']
-global.pengguna = 'Nama Lu Isi'
-global.botnma = 'Lycho Bot'
-global.footer = 'KahfzXzy' //FooterText Biar Di Bawah Nya Ada Text 
+global.pemilik = ['6283172195617']
+global.premium = ['6283172195617']
+global.pengguna = 'FANX4TOD'
+global.botnma = 'BOT FANX4TOD'
+global.footer = 'FANX4TOD' //FooterText Biar Di Bawah Nya Ada Text 
 global.web = 'https://youtube.com/c/KahfzXzy' // Ubah Sama Lu Web Nya Bebas 
 global.web2 = 'https://github.com/K4HFZ' //Ubah Jga Bebas Sama lu 
 global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
